@@ -23,6 +23,15 @@ Bruno Fernando dos Santos Silva
 - Conhecimento em projetos Ruby on Rails
 - Estudando NodeJs, TDD JS
 
+## Links úteis:
+
+- [Dribbble](https://dribbble.com/3runo)
+- [Behance](https://www.behance.net/3runo)
+- [Github](https://github.com/3runoDesign)
+- [Linkedin](https://br.linkedin.com/pub/bruno-fernando)
+- [Facebook](https://www.facebook.com/3runoDesign)
+- [Twiter](http://twitter.com/bruno1fernando)
+
 
 ## Experiência Profissional
 
@@ -31,7 +40,6 @@ Bruno Fernando dos Santos Silva
 **Cargo:** Designer - Front-End
 
 **Responsabilidade: ** Desenvolver o produtos web e apps para iOs e Android.
-
 
 ***
 
@@ -59,3 +67,5 @@ Bruno Fernando dos Santos Silva
 **Projetos:**
 - [RADInfo](http://www.radinfo.com.br/)
 - [Equoterapia Solidária](http://equoterapiasolidaria.com.br/) - [(Nomeado ao prêmio *CSSDA*)](http://www.cssdesignawards.com/sites/equoterapia-solidaria/8208/)
+
+Outras atividades: Digital painting, Ilustrações
