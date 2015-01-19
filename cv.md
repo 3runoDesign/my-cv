@@ -26,7 +26,7 @@ Bruno Fernando dos Santos Silva
 
 ## Experiência Profissional
 
-**Empresa: ** Mibuz (2014)
+**Empresa:** Mibuz (2014)
 
 **Cargo:** Designer - Front-End
 
@@ -58,4 +58,4 @@ Bruno Fernando dos Santos Silva
 
 **Projetos:**
 - [RADInfo](http://www.radinfo.com.br/)
-- [Equoterapia Solidária](http://equoterapiasolidaria.com.br/) (Nomeado ao prêmio CSSDA)[http://www.cssdesignawards.com/sites/equoterapia-solidaria/8208/]
+- [Equoterapia Solidária](http://equoterapiasolidaria.com.br/) - [(Nomeado ao prêmio *CSSDA*)](http://www.cssdesignawards.com/sites/equoterapia-solidaria/8208/)
