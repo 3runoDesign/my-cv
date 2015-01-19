@@ -30,7 +30,7 @@ Bruno Fernando dos Santos Silva
 - [Github](https://github.com/3runoDesign)
 - [Linkedin](https://br.linkedin.com/pub/bruno-fernando)
 - [Facebook](https://www.facebook.com/3runoDesign)
-- [Twiter](http://twitter.com/bruno1fernando)
+- [Twitter](http://twitter.com/bruno1fernando)
 
 
 ## Experiência Profissional
