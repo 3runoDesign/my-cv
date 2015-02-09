@@ -39,7 +39,7 @@ Bruno Fernando dos Santos Silva
 
 **Cargo:** Designer - Front-End
 
-**Responsabilidade: ** Desenvolver o produtos web e apps para iOs e Android.
+**Responsabilidade:** Desenvolver os produtos webs e apps para iOs e Android.
 
 ***
 
