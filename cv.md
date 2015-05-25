@@ -15,7 +15,7 @@ Bruno Fernando dos Santos Silva
 
 ##Qualificações
 
-- Conhecimento nas linguagens PHP, Ruby e Javascript
+- Conhecimento nas linguagens PHP e Javascript
 - Experiência com design (web, branding e afins)
 - HTML, CSS
 - SASS
