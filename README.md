@@ -71,13 +71,17 @@ Bruno Fernando dos Santos Silva
 ***
 
 **Empresa:** Cyou (2014)
+
 **Cargo:** Designer - Front-End
+
 **Responsabilidade:** Desenvolver todo design dos produtos desktop e web
 
 ***
 
 **Empresa:** Clapme (2015)
+
 **Cargo:** Designer - Front-End
+
 **Responsabilidade:** Desenvolver todo design dos produtos desktop e web
 
 ***
