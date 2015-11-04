@@ -68,4 +68,18 @@ Bruno Fernando dos Santos Silva
 - [RADInfo](http://www.radinfo.com.br/)
 - [Equoterapia Solidária](http://equoterapiasolidaria.com.br/) - [(Nomeado ao prêmio *CSSDA*)](http://www.cssdesignawards.com/sites/equoterapia-solidaria/8208/)
 
+***
+
+**Empresa:** Cyou (2014)
+**Cargo:** Designer - Front-End
+**Responsabilidade:** Desenvolver todo design dos produtos desktop e web
+
+***
+
+**Empresa:** Clapme (2015)
+**Cargo:** Designer - Front-End
+**Responsabilidade:** Desenvolver todo design dos produtos desktop e web
+
+***
+
 Outras atividades: Digital painting, Ilustrações
