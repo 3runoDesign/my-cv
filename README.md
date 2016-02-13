@@ -92,6 +92,9 @@ Bruno Fernando dos Santos Silva
 
 **Responsabilidade:** Desenvolvimento de sites em Wordpress
 
+**Projetos:**
+- [AF Noticias](http://www.afnoticias.com.br/)
+
 ***
 
 Outras atividades: Digital painting, Ilustrações
