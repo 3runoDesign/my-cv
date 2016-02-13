@@ -3,7 +3,7 @@ Bruno Fernando dos Santos Silva
 
 **Idade**: 25
 
-**Telefone**: (63) 3411-6075 | 9226-8733
+**Telefone**: (63) 9226-8733
 
 **Estado Civil:** Solteiro
 
@@ -83,6 +83,14 @@ Bruno Fernando dos Santos Silva
 **Cargo:** Designer - Front-End
 
 **Responsabilidade:** Desenvolver todo design dos produtos desktop e web
+
+***
+
+**Empresa:** Agencia CCM
+
+**Cargo:** Designer - Back-End
+
+**Responsabilidade:** Desenvolvimento de sites em Wordpress
 
 ***
 
