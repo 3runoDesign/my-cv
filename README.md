@@ -86,7 +86,7 @@ Bruno Fernando dos Santos Silva
 
 ***
 
-**Empresa:** Agencia CCM
+**Empresa:** Agência CCM
 
 **Cargo:** Designer - Back-End
 
