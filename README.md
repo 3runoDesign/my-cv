@@ -86,15 +86,23 @@ Bruno Fernando dos Santos Silva
 
 ***
 
+**Empresa:** Fernando Basto - SODA Virtual
+
+**Cargo:** Front-End
+
+**Responsabilidade:** Desenvolver o front-end
+
+***
+
 **Empresa:** Agência CCM
 
-**Cargo:** Designer - Back-End
+**Cargo:** Designer - Back-End/Front-End
 
-**Responsabilidade:** Desenvolvimento de sites em Wordpress
+**Responsabilidade:** Desenvolvimento de sites em Wordpress e Produtos Web
 
 **Projetos:**
 - [AF Noticias](http://www.afnoticias.com.br/)
 
 ***
 
-Outras atividades: Digital painting, Ilustrações
+Outras atividades: Digital painting e Ilustrações
