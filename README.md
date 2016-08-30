@@ -105,4 +105,10 @@ Bruno Fernando dos Santos Silva
 
 ***
 
+**Empresa:** Freelance
+
+**Responsabilidade:** Back-end em projetos WP, Front-end, Designer UX/UI e Designer gráfico
+
+***
+
 Outras atividades: Digital painting e Ilustrações
