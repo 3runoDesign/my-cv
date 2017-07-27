@@ -28,8 +28,8 @@ Bruno Fernando dos Santos Silva
 - [Dribbble](https://dribbble.com/3runo)
 - [Behance](https://www.behance.net/3runo)
 - [Github](https://github.com/3runoDesign)
-- [Linkedin](https://br.linkedin.com/pub/bruno-fernando -->
-<!--- Facebook | https://www.facebook.com/3runoDesign)
+- [Linkedin](https://br.linkedin.com/pub/bruno-fernando)
+- [Facebook](https://www.facebook.com/3runoDesign)
 - [Twitter](http://twitter.com/bruno1fernando)
 
 
