@@ -110,5 +110,11 @@ Bruno Fernando dos Santos Silva
 **Responsabilidade:** Back-end em projetos WP, Front-end, Designer UX/UI e Designer gráfico
 
 ***
+Mantenho alguns projetos:
+  - [**setRobot** - Tema base para desenvolvimento WP](https://github.com/3runoDesign/setRobot)
+  - [**setRobot Statical** - Tema base para desenvolvimento de sites estáticos](https://github.com/3runoDesign/setRobot-Statical)
+  - [**Smooth Scrolling** - Script para suavisar rolagem](https://github.com/3runoDesign/smooth-scrolling)
+  - [**Jump DB** - Uma maneira rápida e fácil de configurar váriaveis de ambiente no heroku](https://github.com/artisan-jumper/jump-db)
+***
 
 Outras atividades: Digital painting e Ilustrações
