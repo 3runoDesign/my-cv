@@ -5,7 +5,7 @@ Bruno Fernando dos Santos Silva
 
 **Telefone**: (63) 9226-8733
 
-**Estado Civil:** Solteiro
+**Estado Civil:** Casado
 
 **e-Mail:** bruno2fernando@gmail.com
 
