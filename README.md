@@ -9,11 +9,11 @@ Bruno Fernando dos Santos Silva
 
 **e-Mail:** bruno2fernando@gmail.com
 
-##Grau de instrução
+## Grau de instrução
 
 **Ensino superior (completo):** Sistema de informação 2014/2 - [ITPAC](http://www.itpac.br)
 
-##Qualificações
+## Qualificações
 
 - Conhecimento nas linguagens PHP e Javascript
 - Experiência com design (web, branding e afins)
@@ -21,6 +21,7 @@ Bruno Fernando dos Santos Silva
 - SASS
 - Wordpress
 - Conhecimento em projetos Ruby on Rails
+- Conhecimento em projeto Laravel
 - Estudando NodeJs, TDD JS
 
 ## Links úteis:
